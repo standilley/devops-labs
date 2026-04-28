@@ -58,6 +58,16 @@
 
 ---
 
+### 04. Automação CLI (AWS e Azure)
+**Objetivo:** Automatizar tarefas com scripts e comandos CLI
+
+- AWS CLI avançado
+- Azure CLI avançado
+- Scripts de automação para provisionamento
+- Integração com pipelines
+
+---
+
 ### 03. Terraform Essencial
 **Objetivo:** Infraestrutura como Código (IaC) em AWS e Azure
 
@@ -70,15 +80,5 @@
   - Provisionamento de VM no Azure
   - Criação de buckets S3 com políticas
   - Estrutura profissional de projetos Terraform
-
----
-
-### 04. Automação CLI (AWS e Azure)
-**Objetivo:** Automatizar tarefas com scripts e comandos CLI
-
-- AWS CLI avançado
-- Azure CLI avançado
-- Scripts de automação para provisionamento
-- Integração com pipelines
 
 ---
