@@ -6,16 +6,16 @@
 ### 00. Fundamentos Essenciais
 **Objetivo:** Dominar as ferramentas básicas necessárias para DevOps
 
+#### Linux Essencial
+- Navegação e manipulação de arquivos
+- Permissões e usuários
+- Processos e gerenciamento de recursos
+  
 #### Git Essencial
 - Comandos fundamentais: clone, add, commit, push, pull
 - Branches, merge e pull requests
 - Tags e versionamento
 - Automação com funções personalizadas
-
-#### Linux Essencial
-- Navegação e manipulação de arquivos
-- Permissões e usuários
-- Processos e gerenciamento de recursos
 
 #### Vi Essencial
 - Modos de edição
