@@ -58,7 +58,7 @@
 
 ---
 
-### 04. Automação CLI (AWS e Azure)
+### 03. Automação CLI (AWS e Azure)
 **Objetivo:** Automatizar tarefas com scripts e comandos CLI
 
 - AWS CLI avançado
@@ -68,7 +68,7 @@
 
 ---
 
-### 03. Terraform Essencial
+### 04. Terraform Essencial
 **Objetivo:** Infraestrutura como Código (IaC) em AWS e Azure
 
 - Conceitos de IaC e benefícios
