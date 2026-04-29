@@ -82,3 +82,19 @@
   - Estrutura profissional de projetos Terraform
 
 ---
+
+### 05. GitHub Actions
+**Objetivo:** CI/CD moderno com automação de pipelines
+
+- Conceito de workflows e jobs
+- Triggers (push, pull_request, workflow_dispatch)
+- Secrets e variáveis de ambiente
+- **Labs práticos:**
+  - Pipeline básica de Hello World
+  - CI/CD para aplicação Java com Maven
+  - Build e push de imagens Docker para Azure Container Registry (ACR)
+  - Scan de segurança com Trivy
+  - Infraestrutura com Terraform + Ansible integrado ao GitHub Actions
+  - Botão de destruição de recursos via workflow_dispatch
+
+---
